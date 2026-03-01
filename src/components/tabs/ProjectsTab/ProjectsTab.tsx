@@ -3,11 +3,11 @@ import { Modal } from '../../Modal/Modal';
 import styles from './ProjectsTab.module.css';
 
 
-import project1 from '../../../assets/project1.mov';
-import project2 from '../../../assets/project2.mov';
-import project4 from '../../../assets/Screen Recording 2026-01-08 at 10.48.43 AM (online-video-cutter.com).mp4'
-import project5 from '../../../assets/project5.mp4';
-import screenshot1 from '../../../assets/Screenshot 2025-12-29 at 3.27.06 PM.png';  
+import project1 from '../../../assets/Project1.mov';
+import project2 from '../../../assets/Project2.mov';
+import project4 from '../../../assets/Screen Recording 2026-01-08 at 10.48.43 AM (online-video-cutter.com).mp4';
+import project5 from '../../../assets/Project5.mp4';
+import screenshot1 from '../../../assets/ugo.png';  
 import screenshot2 from '../../../assets/Screenshot 2025-12-29 at 3.30.58 PM.png';  
 import screenshot3 from '../../../assets/Screenshot 2025-12-29 at 3.31.15 PM.png';
 import screenshot4 from '../../../assets/Screenshot 2025-12-29 at 3.31.27 PM.png';
